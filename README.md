@@ -68,6 +68,7 @@ Oyunumuzun atmosferini, mekaniklerini ve genel oynanışını görmek için aşa
 Aşağıda oyunumuzun farklı aşamalarından ve afet senaryolarından görselleri inceleyebilirsiniz:
 
 <p align="center">
+  
   <img width="48%" height="835" alt="giriş" src="https://github.com/user-attachments/assets/68f4a82b-4304-4af1-992e-7e595bcc6167" />
   <img width="48%" height="838" alt="Ekran görüntüsü 2026-06-21 165055" src="https://github.com/user-attachments/assets/1045e30f-d684-4b16-9a22-a4359fe777c2" />
 
