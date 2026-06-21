@@ -1,4 +1,5 @@
 # 3D Doğal Afet Bilinci ve Hayatta Kalma Simülasyonu
+Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri (YBS) Dönem Sonu Projesi kapsamında geliştirilmiş, 3 boyutlu birinci kişilerin (FPS) afet yönetimi  simülasyonudur.
 
 Bu proje, oyuncuların acil durum ve doğal afet anlarında doğru refleksleri göstermesini, stres altında hızlı ve doğru karar verme yeteneklerini geliştirmesini amaçlayan **Unity** ile geliştirilmiş 3 boyutlu bir eğitim ve farkındalık oyunudur. 
 
@@ -93,9 +94,8 @@ Projeyi kendi yerel ortamınızda çalıştırmak veya incelemek için:
    git clone [https://github.com/Ferhat-01/Unity_proje.git](https://github.com/Ferhat-01/Unity_proje.git)
 
 ## İletişim Bilgileri
-#Ad:Ferhat
-
-#Soyad:Gönülveren
-
-#Gmail:gonulverenf@gmail.com
+Ad:Ferhat  </p>
+Soyad:Gönülveren </p>
+Gmail:132430027@ogr.uludag.edu.tr </p>
+Bursa Uludağ Üniversitesi 2.sınf öğrencisi
    
