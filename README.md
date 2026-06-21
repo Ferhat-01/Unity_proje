@@ -59,23 +59,29 @@ Klasik eğitici oyun kalıplarından uzaklaşarak, oyunlaştırma dinamikleri ve
 ## 🎥 Tanıtım Videosu
 Oyunumuzun atmosferini, mekaniklerini ve genel oynanışını görmek için aşağıdaki görsele tıklayarak YouTube üzerinden tanıtım videomuzu izleyebilirsiniz:
 
-[![Oyun Tanıtım Videosu](https://img.youtube.com/vi/VİDEO_ID_BURAYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=VİDEO_ID_BURAYA)
-> **Not:** `VİDEO_ID_BURAYA` yazan kısımlara YouTube videonuzun linkindeki v= kısmından sonraki kodunu yapıştırmalısınız (Örn: dQw4w9WgXcQ).
-
+[Oyun Tanıtım Videosu]https://youtu.be/zEIQbh5sVQs
+>
 ---
 ## 📸 Oyundan Kareler
 
 Aşağıda oyunumuzun farklı aşamalarından ve afet senaryolarından görselleri inceleyebilirsiniz:
 
 <p align="center">
-  <img src="giriş.png" width="48%" alt="Yatak Odası - Deprem Anı">
-  <img src="GÖRSEL_YOLU_BURAYA/resim2.jpg" width="48%" alt="Banyo - Sel ve Şalter Kontrolü">
+  <img width="48%" height="835" alt="giriş" src="https://github.com/user-attachments/assets/68f4a82b-4304-4af1-992e-7e595bcc6167" />
+  <img width="48%" height="838" alt="Ekran görüntüsü 2026-06-21 165055" src="https://github.com/user-attachments/assets/1045e30f-d684-4b16-9a22-a4359fe777c2" />
+
 </p>
 <p align="center">
-  <img src="GÖRSEL_YOLU_BURAYA/resim3.jpg" width="48%" alt="Mutfak - Yangın Söndürme">
-  <img src="GÖRSEL_YOLU_BURAYA/resim4.jpg" width="48%" alt="Bitiş Ekranı ve Skor Tablosu">
+  <img width="48%" height="939" alt="mutfak" src="https://github.com/user-attachments/assets/d34c7acc-98e9-4b36-b31c-58260d69a76f" />
+  <img width="48%" height="842" alt="mutfak1" src="https://github.com/user-attachments/assets/50d7a330-1914-4672-80d1-fa372e349665" />
+  <img width="48%" height="844" alt="Ekran görüntüsü 2026-06-21 164949" src="https://github.com/user-attachments/assets/35d41344-773f-4f7e-85e1-134ab529683e" />
+  <img width="48%" height="839" alt="AraHol" src="https://github.com/user-attachments/assets/746bbbea-d126-4cdf-8d6d-4f1f277d7388" />
+  <img width="48%" height="846" alt="telefon" src="https://github.com/user-attachments/assets/6394df67-2450-452b-b824-1c4578b486f6" />
+  <img width="48%" height="841" alt="telefon2" src="https://github.com/user-attachments/assets/24eb381a-c538-4b91-a79a-89e1c77c27eb" />
+  <img width="48%" height="842" alt="telefon1" src="https://github.com/user-attachments/assets/5f8b9644-4ff4-4bad-8f53-8abc82e0c5d2" />
+  <img width="48%" height="843" alt="bitiş" src="https://github.com/user-attachments/assets/783b4745-6b53-4b25-8fc8-cb13d1c085f3" />
 </p>
-> **Not:** GitHub reponuzda `Images` veya `Gorseller` adında bir klasör açıp fotoğraflarınızı oraya yükledikten sonra, yukarıdaki `GÖRSEL_YOLU_BURAYA/resim.jpg` kısımlarını kendi dosya isimlerinizle değiştirmelisiniz.
+
 
 ---
 
@@ -86,5 +92,10 @@ Projeyi kendi yerel ortamınızda çalıştırmak veya incelemek için:
    ```bash
    git clone [https://github.com/Ferhat-01/Unity_proje.git](https://github.com/Ferhat-01/Unity_proje.git)
 
+## İletişim Bilgileri
+#Ad:Ferhat
 
+#Soyad:Gönülveren
+
+#Gmail:gonulverenf@gmail.com
    
