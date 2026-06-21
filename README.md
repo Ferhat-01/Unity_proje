@@ -57,4 +57,4 @@ Projeyi kendi yerel ortamınızda çalıştırmak veya incelemek için:
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullanici-adi/proje-adi.git](https://github.com/kullanici-adi/proje-adi.git)
+   git clone [https://github.com/kullanici-adi/proje-adi.git](https://github.com/Ferhat-01/Unity_proje.git)
