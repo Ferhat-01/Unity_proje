@@ -51,10 +51,40 @@ Tüm odaları başarıyla tamamlayan oyuncular, finalde detaylı bir istatistik 
 * **Arayüz Kontrolleri:** Responsive Canvas UI (Scale With Screen Size)
 
 ---
+Bu proje, oyuncuların acil durum ve doğal afet anlarında doğru refleksleri göstermesini, stres altında hızlı ve doğru karar verme yeteneklerini geliştirmesini amaçlayan **Unity** ile geliştirilmiş 3 boyutlu bir eğitim ve farkındalık oyunudur. 
+
+Klasik eğitici oyun kalıplarından uzaklaşarak, oyunlaştırma dinamikleri ve fantastik ögeleri acil durum prosedürleriyle birleştirmeyi hedefler.
+
+---
+## 🎥 Tanıtım Videosu
+Oyunumuzun atmosferini, mekaniklerini ve genel oynanışını görmek için aşağıdaki görsele tıklayarak YouTube üzerinden tanıtım videomuzu izleyebilirsiniz:
+
+[![Oyun Tanıtım Videosu](https://img.youtube.com/vi/VİDEO_ID_BURAYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=VİDEO_ID_BURAYA)
+> **Not:** `VİDEO_ID_BURAYA` yazan kısımlara YouTube videonuzun linkindeki v= kısmından sonraki kodunu yapıştırmalısınız (Örn: dQw4w9WgXcQ).
+
+---
+## 📸 Oyundan Kareler
+
+Aşağıda oyunumuzun farklı aşamalarından ve afet senaryolarından görselleri inceleyebilirsiniz:
+
+<p align="center">
+  <img src="giriş.png" width="48%" alt="Yatak Odası - Deprem Anı">
+  <img src="GÖRSEL_YOLU_BURAYA/resim2.jpg" width="48%" alt="Banyo - Sel ve Şalter Kontrolü">
+</p>
+<p align="center">
+  <img src="GÖRSEL_YOLU_BURAYA/resim3.jpg" width="48%" alt="Mutfak - Yangın Söndürme">
+  <img src="GÖRSEL_YOLU_BURAYA/resim4.jpg" width="48%" alt="Bitiş Ekranı ve Skor Tablosu">
+</p>
+> **Not:** GitHub reponuzda `Images` veya `Gorseller` adında bir klasör açıp fotoğraflarınızı oraya yükledikten sonra, yukarıdaki `GÖRSEL_YOLU_BURAYA/resim.jpg` kısımlarını kendi dosya isimlerinizle değiştirmelisiniz.
+
+---
 
 ## 🚀 Kurulum ve Çalıştırma
 Projeyi kendi yerel ortamınızda çalıştırmak veya incelemek için:
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullanici-adi/proje-adi.git](https://github.com/Ferhat-01/Unity_proje.git)
+   git clone [https://github.com/Ferhat-01/Unity_proje.git](https://github.com/Ferhat-01/Unity_proje.git)
+
+
+   
